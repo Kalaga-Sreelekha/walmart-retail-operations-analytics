@@ -21,4 +21,4 @@ Focus areas: revenue KPIs, inventory efficiency, stockouts, and seasonality.
 3. Run Python analysis scripts
 
 ## Author
-Sreelekha
+Raj
