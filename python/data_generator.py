@@ -19,4 +19,4 @@ sales = pd.DataFrame(records, columns=[
     "sale_date", "store_id", "product_id", "units_sold", "revenue"
 ])
 
-sales.to_csv("data/processed/sales.csv", index=False)
+sales.to_csv("sales.csv", index=False)
