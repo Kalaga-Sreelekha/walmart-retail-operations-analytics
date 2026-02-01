@@ -9,6 +9,7 @@ Focus areas: revenue KPIs, inventory efficiency, stockouts, and seasonality.
 - Python (Pandas, NumPy, Matplotlib)
 - GitHub
 
+
 ## KPIs
 - Total Revenue KPI
 - Stockout Rate KPI
@@ -19,6 +20,7 @@ Focus areas: revenue KPIs, inventory efficiency, stockouts, and seasonality.
 1. Run `python/data_generator.py`
 2. Execute SQL files in `sql/`
 3. Run Python analysis scripts
+
 
 ## Author
 Sreelekha
